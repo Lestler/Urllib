@@ -1,0 +1,5 @@
+This python program is used to get the source code of any https websites.
+
+It uses the library urllib and gets the backend source code with just a click.
+
+You can use this program to get and analyse the source codes for better visualization of html and css.
